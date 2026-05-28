@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Irfan Syamsuri](img/github-header-banner.png)
 
 ### Skill
