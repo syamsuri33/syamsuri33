@@ -1,5 +1,15 @@
 ## Hi there 👋
+![Irfan Syamsuri](img/github-header-banner.png)
 
+### Skill
+
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/Yii%20Framework-282828?style=for-the-badge&logo=yii&logoColor=40B3D8)
+![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![image](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+
+### Social Media
+![https://www.instagram.com/syamsuri.core/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <!--
 **syamsuri33/syamsuri33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
